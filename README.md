@@ -27,8 +27,8 @@ Un service d'intégration d'API permettant aux développeurs d'intégrer facilem
 
 #### 3. Application desktop librairie avec Neutralino js
 
- Une application faite pour tester les possibilitées de neutralino js qui se veut etre un framework leger et facile a utiliser
-📘 Repository : [Librairie App](https://github.com/AxeBart/librairie_app/tree/main/librairie))
+ Une application faite pour tester les possibilitées de neutralino js qui se veut etre un framework leger et facile a utiliser.  
+📘 Repository : [Librairie App](https://github.com/AxeBart/librairie_app/tree/main/librairie)  
 
 ### Formation :
 
