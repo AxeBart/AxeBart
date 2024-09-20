@@ -13,19 +13,24 @@
 
 ### Projets notables :
 
-#### 1. Restaurant Platform (React, Node.js)
+#### Front-end du site web pour la fondation Judith Kwete
+Site fait en Vue.js
+🌐 FJK ONGD : [Fondation Judith Kwete ONGD](https://judith-kwete-fondation.org/)  
+https://judith-kwete-fondation.org/
+
+#### Restaurant Platform (React, Node.js)
 
 Une plateforme pour n'importe quelle resetaurant permettant aux utilisateurs de parcourir des plats et de reserver des tables. Développé avec React pour le frontend
 il est disponible ici :  
 🌐 Hello Resto : [Hello Resto](https://helloresto.netlify.app)  
 📘 Repository : [HelloResto](https://github.com/AxeBart/helloresto)  
 
-#### 2. API Integration Service (PHP, JavaScript)
+#### API Integration Service (PHP, JavaScript)
 
 Un service d'intégration d'API permettant aux développeurs d'intégrer facilement des fonctionnalités tierces dans leurs applications. Développé avec PHP pour le backend et JavaScript pour le frontend, offrant une interface conviviale pour gérer les connexions API.  
 📘 Repository : [CSV to JSON](https://github.com/AxeBart/php_csv_gest)
 
-#### 3. Application desktop librairie avec Neutralino js
+#### Application desktop librairie avec Neutralino js
 
  Une application faite pour tester les possibilitées de neutralino js qui se veut etre un framework leger et facile a utiliser.  
 📘 Repository : [Librairie App](https://github.com/AxeBart/librairie_app/tree/main/librairie)  
