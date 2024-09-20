@@ -14,9 +14,9 @@
 ### Projets notables :
 
 #### Front-end du site web pour la fondation Judith Kwete
-Site fait en Vue.js
+Site fait en Vue.js  
 🌐 FJK ONGD : [Fondation Judith Kwete ONGD](https://judith-kwete-fondation.org/)  
-https://judith-kwete-fondation.org/
+
 
 #### Restaurant Platform (React, Node.js)
 
